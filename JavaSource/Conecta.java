@@ -3,7 +3,6 @@ import org.hibernate.Session;
 
 import com.kurtphpr.sistema.vendas.HibernateUtil;
 
-//Teste de conexao e bibliotecas adicionadas - Hibernate
 public class Conecta {
 	
 	
